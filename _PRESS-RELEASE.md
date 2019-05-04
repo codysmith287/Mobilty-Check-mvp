@@ -34,7 +34,7 @@ Once the project moves into development, the press release can be used as a touc
 ## Making your life as health and fitness professional easier. ##
   > A quote from a spokesperson in your company.
 
-## Click the link for an overview of performing an overhead squat assessment, record the results, and receive the prescriptions afterwards. ##
+## Click the video link for an quick tutorial to adminstering an overhead squat assessment, record the results, and receive the prescriptions afterwards. It's that easy. ##
   > Describe how easy it is to get started.
 
 ## "This app has made my job so much easier when performing overhead squat assessment. Love it!" Dr. Kelly Starrett ##
