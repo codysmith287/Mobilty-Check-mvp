@@ -1,3 +1,5 @@
+var path = require('path');
+
 module.exports = {
   entry: __dirname + '/client/src/index.jsx',
   module: {
@@ -14,10 +16,24 @@ module.exports = {
         use: [
           {loader: 'style-loader'},
           {loader: 'css-loader',
+            // Disabled CSS Modules option because bootstrap
+            // options: {
+            //   modules: true
+            // }
+          },
+        ],
+      },
+      {
+        test: /\.(gif|png|jpe?g|svg)$/i,
+        use: [
+          {
+            loader: 'file-loader',
             options: {
-              modules: true
+              outputPath: 'img/',
+              name: '[name].[ext]',
+              publicPath: '/'
             }
-          }
+          },
         ],
       }
     ]

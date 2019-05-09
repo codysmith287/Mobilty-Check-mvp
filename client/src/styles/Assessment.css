@@ -1,0 +1,28 @@
+.assessment {
+  background-color: #343a40;
+  color: #FFFFFF;
+  height:100%;
+}
+
+.title {
+  padding-top: 0.5em;
+  margin-bottom: 0.75em;
+  color: #ED8822;
+}
+
+.headings {
+  margin-bottom: 0.75em;
+}
+
+.rows {
+  margin-bottom: 0.75em;
+}
+
+.checkbox {
+  margin-right: 5px;
+}
+
+.submitButton {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}

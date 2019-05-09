@@ -1,0 +1,14 @@
+.ghost {
+  display: none;
+}
+
+.form-elements {
+  margin-right: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  width:180px;
+}
+
+.btn {
+  margin-bottom: 15px;
+}
